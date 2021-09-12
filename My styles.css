@@ -1,0 +1,28 @@
+a{
+	color:red;
+}
+body{
+	color:#339933;
+	padding: 15px;
+	margin: 15px;
+	border: 7px solid #000000;
+	background-image: url(images.jpg);
+}
+h1{
+	color:#339933;
+	background-color:#000000;
+	border: 1px solid #323232;
+	font-size: 20px;
+}
+#test{
+	color:#339933;
+	background-color:#000000;
+	border: 1px solid #323232;
+}
+	#test2{
+		color:#339933;
+	background-color:#000000;
+	border: 1px solid #323232;
+}
+
+	
